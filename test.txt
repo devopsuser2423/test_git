@@ -1,1 +1,9 @@
 hi this is my new file to test git
+ hello hello gello 
+ sdf
+ sz
+ fd
+ f
+ af
+ afa
+ f
